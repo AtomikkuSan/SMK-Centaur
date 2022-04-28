@@ -1,3 +1,5 @@
+(Note: Uses TriggeredSnake's OldParts Redux under the MIT License.)
+
 MIT License
 
 Copyright (c) 2022 AtomikkuSan
